@@ -2,7 +2,8 @@
 <aiml>
 <category>
     <pattern>1</pattern>
-    <template>"Software developers use their programming skills to create new software and improve existing software applications. They design and write the code used to build everything from operating systems to mobile apps to video games.
+    <template>It sounds like you love programming! You might be interested in Software Development!
+    "Software developers use their programming skills to create new software and improve existing software applications. They design and write the code used to build everything from operating systems to mobile apps to video games.
     In this role, you may be involved with every stage of the software development life cycle (SDLC), from defining user needs and anticipating user behavior to releasing a complete application. You are likely to work on a team with other software developers, engineers, or computer programmers."
     
     https://www.coursera.org/articles/software-developer
@@ -10,7 +11,7 @@
 </category>
 <category>
     <pattern>A</pattern>
-    <template>"A system administrator’s job description might include: 
+    <template>It sounds like you love fixing and managing systems, perhaps a System Administrator! "A system administrator’s job description might include: 
 
 
 Managing Windows, Linux, or Mac systems.
@@ -28,17 +29,17 @@ https://www.coursera.org/articles/what-is-a-system-administrator-a-career-guide<
 </category>
 <category>
     <pattern>B</pattern>
-    <template>"Information security analysts, sometimes called information security managers, protect sensitive information from hackers and data breaches. Organizations, large and small, depend on information security analysts to defend their data from high-tech invasions."
+    <template>Love keeping things secure and safe? Information Security Analyst would be a good fit! "Information security analysts, sometimes called information security managers, protect sensitive information from hackers and data breaches. Organizations, large and small, depend on information security analysts to defend their data from high-tech invasions."
     https://www.coursera.org/articles/information-security-analyst-salary</template>
 </category>
 <category>
     <pattern>C</pattern>
-    <template>"Data analysts collect, clean, and interpret data sets in order to solve a problem or answer a question, such as What kind of customers should a business target in its next ad campaign? What age group is most vulnerable to a particular disease? and What patterns in behavior are connected to financial fraud?"
+    <template>Love diving deep into data? Data Analyst: "Data analysts collect, clean, and interpret data sets in order to solve a problem or answer a question, such as What kind of customers should a business target in its next ad campaign? What age group is most vulnerable to a particular disease? and What patterns in behavior are connected to financial fraud?"
     https://www.coursera.org/articles/what-does-a-data-analyst-do-a-career-guide</template>
 </category>
 <category>
     <pattern>D</pattern>
-    <template>"Cybersecurity analysts need to understand the latest cyber threat landscape, as well as their company’s IT infrastructure. Depending on where you work, this might mean having familiarity with Windows, Mac, and Linux operating systems and experience with firewalls, VPNs, and proxies, as well as security and information event management systems (SIEMs). "
+    <template>Saving the world from cyber criminals huh? Cybersecurity Analyst: "Cybersecurity analysts need to understand the latest cyber threat landscape, as well as their company’s IT infrastructure. Depending on where you work, this might mean having familiarity with Windows, Mac, and Linux operating systems and experience with firewalls, VPNs, and proxies, as well as security and information event management systems (SIEMs). "
     https://www.coursera.org/articles/cybersecurity-analyst-job-guide</template>
 </category>
 <category>
